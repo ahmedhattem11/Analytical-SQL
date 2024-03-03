@@ -30,4 +30,28 @@ The dataset consists of retail transaction records, including details such as in
 
 ### Customer Purchase Frequency:
 **Objective**: Understand customer purchasing habits.
-**SQL Query**: Calculate the average time between p
+**SQL Query**: Calculate the average time between purchases for each customer.
+**Business Meaning**: Identify loyal customers and optimize marketing strategies.
+
+### RFM Segmentation:
+**Objective**: Segment customers based on recency, frequency, and monetary values.
+**SQL Query**: Implement an RFM model to categorize customers.
+**Business Meaning**: Tailor marketing strategies and retention efforts to different customer segments.
+
+### Consecutive Purchase Days:
+**Objective**: Identify the maximum number of consecutive days a customer makes purchases.
+**SQL Query**: Calculate the maximum consecutive days each customer made purchases.
+**Business Meaning**: Understand customer engagement and loyalty.
+
+### Average Days to Reach Spending Threshold:
+**Objective**: Analyze the average time for customers to reach a spending threshold.
+**SQL Query**: Calculate the average time or transactions for customers to reach a spending threshold.
+**Business Meaning**: Optimize marketing strategies and promotions to encourage quicker spending.
+
+### Customers Segmentation Based on Recency, Frequency, and Monetary:
+**Objective**: Segment customers into predefined groups based on their recency, frequency, and monetary values.
+**SQL Query**: Implement a Monetary model to categorize customers into predefined groups.
+**Business Meaning**: Identify customer segments for targeted marketing and retention efforts.
+
+## Summary
+This case study demonstrates the use of SQL queries to analyze retail transaction data and extract actionable insights for a business. The insights gained from these queries can help the business optimize its operations, improve customer satisfaction, and increase profitability.
